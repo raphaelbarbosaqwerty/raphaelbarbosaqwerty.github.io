@@ -3,7 +3,7 @@
 #### HACKING,CTF,EN
 #### assets/capture-ctf.jpg
 
-### Informative about next machines
+## Informative about next machines
 
 Hello, this post is just informative. The next machines from VulnHub are on the print screen. All boxes are confirmed for the OSCP preparation.  
 

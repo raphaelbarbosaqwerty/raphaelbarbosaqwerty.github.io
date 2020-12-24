@@ -3,7 +3,7 @@
 #### SOBRE,PT,BLOG
 #### assets/idealamp.jpg
 
-### Objetivo do Blog
+## Objetivo do Blog
 
 Sempre gostei de escrever apesar que ultimamente não tenho tido muito tempo para isso. Quero procurar ajudar a comunidade de alguma forma e vou tentar usar este espaço para isso, também para no futuro ter algumas anotações sobre meus pensamentos.
 Atualmente fiz a conversão do meu blog anterior que era um template (Vue.js) para Flutter/Web, estarei disponibilizando a source do blog no meu GitHub.

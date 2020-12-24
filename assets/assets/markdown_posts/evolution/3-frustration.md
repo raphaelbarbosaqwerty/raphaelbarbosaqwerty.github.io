@@ -3,7 +3,7 @@
 #### EVOLUTION,LIFE,EN
 #### assets/frustrationimage.png
 
-### How the frustration brought me back to the game
+## How the frustration brought me back to the game
 
 The year was 2019, I was entering the office of a big company for an interview, my second interview for an internship. We started the interview but, I was very nervous to explain, the best part of the interview was when they asked me to explain on the whiteboard about inheritance, polymorphism, and obviously I was unable to explain this. That was funny because it was not a hard exercise to explain.
 
@@ -43,7 +43,7 @@ I started my studies looking for how we can "inject" data on the brain just with
 
 With patience and time, we can "inject" data on the brain. With this, we jump for the next exploit **"Sleeping exploit"**.
 
-#### Sleeping exploit
+### Sleeping exploit
 
 This is more complex, best to do it on the weekends, vacation, and/or by night. When we read for so many hours we get sleepy and here we can start the exploit.
 

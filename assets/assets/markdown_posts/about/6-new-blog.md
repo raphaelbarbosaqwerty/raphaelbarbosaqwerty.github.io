@@ -3,7 +3,7 @@
 #### SOBRE,PT,BLOG
 #### assets/flutter-image.png
 
-### Cara nova
+## Cara nova
 
 Infelizmente acabei perdendo a vontade de escrever com meu último blog o mesmo era um template aproveitado em Vue.js. Felizmente decidi refazer o Blog, só que dessa vez com uma cara nova, como atualmente meu foco é voltado para Flutter então decidi cair de cara na Web com o mesmo, sendo assim refiz totalmente o blog para este novo, ainda tem bastante coisa para arrumar, estarei lançando alguns updates de pouco a pouco, o design foi baseado em Artem Sheludko, que é voltado para o Jekyll.
 
