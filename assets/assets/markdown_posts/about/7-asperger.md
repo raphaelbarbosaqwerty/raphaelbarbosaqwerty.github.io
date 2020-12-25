@@ -5,7 +5,7 @@
 
 ## Meus pensamentos
 
-- Recentemente fui diagnosticado com espectro Autista de Alto Desempenho ou Sindrome de Asperger. Tendo isso em vista, decidi escrever melhor sobre como me sinto afinal sempre achei que eu tinha um pensamento meio que semelhante com o resto das pessoas na minha volta, isso é bem estranho ainda pra mim pois na verdade meu pensamento é o completo oposto da grande maioria das pessoas, pelo que entendi é completamente diferente. Também me foi informado que cada autista é diferente e tem experiências diferentes das que posso escrever aqui, então falo apenas por mim e não outro alguém.
+- Recentemente fui diagnosticado com espectro Autista de Alto Desempenho (Asperger). Tendo isso em vista, decidi escrever melhor sobre como me sinto afinal sempre achei que eu tinha um pensamento meio que semelhante com o resto das pessoas na minha volta, isso é bem estranho ainda pra mim pois na verdade meu pensamento é o completo oposto da grande maioria das pessoas, pelo que entendi é completamente diferente. Também me foi informado que cada autista é diferente e tem experiências diferentes das que posso escrever aqui, então falo apenas por mim e não outro alguém.
 
 ### Relacionamentos
 
