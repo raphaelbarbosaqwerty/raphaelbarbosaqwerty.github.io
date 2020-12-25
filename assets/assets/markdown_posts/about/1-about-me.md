@@ -7,7 +7,7 @@
 
 Tenho 22 anos. Gosto de desafios, livros, aprender idiomas diferentes, cozinhar coisas diferentes, programação e hacking! Recentemente descobri que tenho síndrome de Asperger/Autismo Leve. Tenho experiência em algumas linguagens/frameworks e estudo segurança da informação. Atualmente tenho focado mais em desenvolvimento com Flutter para Mobile.
 
-Conheço programação desde os meus 10 anos quando comecei a tentar entender o Delphi 7 na porém acabei deixando de lado na por não saber inglês, fiz um curso de inglês e voltei a mexer em C com 12 anos, posteriormente passei para PHP por volta dos 13-14, Python com 15, nestes cenários em nenhum momento foi de forma profissional ou querendo seguir boas práticas sempre foi para aprender algo novo, fui entrar na área profissional somente com 19-20. 
+Conheço programação desde os meus 10 anos quando comecei a tentar entender o Delphi 7 porém acabei deixando de lado na por não saber inglês, fiz um curso de inglês e voltei a mexer em C/C# com 12 anos também neste periodo aprendi um pouco sobre VB.Net, posteriormente passei para PHP por volta dos 13-14, Python com 15, nestes cenários em nenhum momento foi de forma profissional ou querendo seguir boas práticas sempre foi para aprender algo novo, fui entrar na área profissional somente com 19-20. 
 
 Acredito fortemente na possibilidade da unificação de todas as nações e defendo isso, acho ilógico a humanidade por si só ser separada, tendo em vista a grande possibilidade de vida existente no universo a fora.
 
