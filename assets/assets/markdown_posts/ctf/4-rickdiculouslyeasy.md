@@ -1,7 +1,7 @@
 # Rickdiculously Easy - CTF
 #### June 22, 2020
 #### HACKING,CTF,EN
-#### assets/image_posts/ctf/rick/rickme.jpg
+#### assets/images/posts/rickme.jpg
 
 Easy box, starting with the easy box to hard. But all boxes confirmed in OSCP preparation.  
 

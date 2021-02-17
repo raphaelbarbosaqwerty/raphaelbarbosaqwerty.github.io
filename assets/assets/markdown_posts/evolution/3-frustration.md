@@ -1,7 +1,7 @@
 # Frustration
 #### April 24, 2020
 #### EVOLUTION,LIFE,EN
-#### assets/frustrationimage.png
+#### assets/images/posts/frustrationimage.png
 
 ## How the frustration brought me back to the game
 

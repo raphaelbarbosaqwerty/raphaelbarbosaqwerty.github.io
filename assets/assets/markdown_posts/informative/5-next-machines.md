@@ -1,7 +1,7 @@
 # Next machines
 #### June 24, 2020
 #### HACKING,CTF,EN
-#### assets/capture-ctf.jpg
+#### assets/images/posts/capture-ctf.jpg
 
 ## Informative about next machines
 

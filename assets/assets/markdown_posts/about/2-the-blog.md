@@ -1,7 +1,7 @@
 # Olá!
 #### April 20, 2020
 #### SOBRE,PT,BLOG
-#### assets/idealamp.jpg
+#### assets/images/posts/idealamp.jpg
 
 ## Objetivo do Blog
 

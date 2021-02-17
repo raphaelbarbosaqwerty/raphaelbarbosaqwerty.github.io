@@ -1,6 +1,6 @@
 {
-    "name": "blog_flutter_fluro",
-    "short_name": "blog_flutter_fluro",
+    "name": "blog_flutter_fluro_template",
+    "short_name": "blog_flutter_fluro_template",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

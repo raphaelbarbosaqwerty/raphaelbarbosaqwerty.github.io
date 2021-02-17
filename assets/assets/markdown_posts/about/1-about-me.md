@@ -1,7 +1,7 @@
 # Sobre
 #### April 20, 2020
 #### SOBRE,PT
-#### assets/eye.jpg
+#### assets/images/posts/eye.jpg
 
 ## Olá
 

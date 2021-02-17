@@ -1,7 +1,7 @@
 # Sindrome de Asperger
 #### Dezembro 24, 2020
 #### SOBRE,PT
-#### assets/asperger.png
+#### assets/images/posts/asperger.png
 
 ## Meus pensamentos
 

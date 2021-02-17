@@ -1,7 +1,7 @@
 # Novo Blog
 #### Dezembro 23, 2020
 #### SOBRE,PT,BLOG
-#### assets/flutter-image.png
+#### assets/images/posts/flutter-image.png
 
 ## Cara nova
 
